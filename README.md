@@ -1,7 +1,6 @@
 # sakila_shots
 Utilizing the public Sakila sample database to practice coding in MySQL.
 
-Sakila
 What's great about Sakila is that there's an opportunity to do lots of different queries because there's a variety of tables.
 
 ![Quick shot of sakila](/1_Sidebar_Sakila_Tables_Views.png)  
